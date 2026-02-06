@@ -129,7 +129,7 @@ const Footer = () => {
       <div className="border-t border-primary-foreground/10">
         <div className="container-custom py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-primary-foreground/60">
-            <p>© 2024 NepalEdu. All rights reserved.</p>
+            <p>© 2026 NepalEdu. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-primary-foreground transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-primary-foreground transition-colors">Terms of Service</a>
